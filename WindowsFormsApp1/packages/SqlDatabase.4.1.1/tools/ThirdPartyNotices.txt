@@ -1,0 +1,140 @@
+SqlDatabase 4.1.1
+*****************
+
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+
+Microsoft.Win32.Registry (https://www.nuget.org/packages/Microsoft.Win32.Registry/4.7.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+Microsoft.WSMan.Runtime (https://www.nuget.org/packages/Microsoft.WSMan.Runtime/7.0.5)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+Microsoft.WSMan.Runtime (https://www.nuget.org/packages/Microsoft.WSMan.Runtime/7.1.2)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+Microsoft.WSMan.Runtime (https://www.nuget.org/packages/Microsoft.WSMan.Runtime/7.2.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+Microsoft.WSMan.Runtime (https://www.nuget.org/packages/Microsoft.WSMan.Runtime/7.3.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+MySqlConnector (https://www.nuget.org/packages/MySqlConnector/1.3.10)
+    Authors: Bradley Grainger,Caleb Lloyd
+	Copyright: Copyright 2016–2021 Bradley Grainger
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+NETStandard.Library (https://www.nuget.org/packages/NETStandard.Library/2.0.3)
+    Authors: Microsoft
+	Copyright: .NET Foundation and Contributors
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+Npgsql (https://www.nuget.org/packages/Npgsql/4.0.11)
+    Authors: Shay Rojansky,Yoh Deadfall,Austin Drenski,Emil Lenngren,Francisco Figueiredo Jr.,Kenji Uno
+	Copyright: Copyright 2019 © The Npgsql Development Team
+	License: PostgreSQL License, full text can be found at https://spdx.org/licenses/PostgreSQL
+
+PowerShellStandard.Library (https://www.nuget.org/packages/PowerShellStandard.Library/5.1.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Buffers (https://www.nuget.org/packages/System.Buffers/4.4.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation.  All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Buffers (https://www.nuget.org/packages/System.Buffers/4.5.1)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Configuration.ConfigurationManager (https://www.nuget.org/packages/System.Configuration.ConfigurationManager/4.5.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation.  All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Data.SqlClient (https://www.nuget.org/packages/System.Data.SqlClient/4.8.5)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Diagnostics.DiagnosticSource (https://www.nuget.org/packages/System.Diagnostics.DiagnosticSource/4.7.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Memory (https://www.nuget.org/packages/System.Memory/4.5.3)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Memory (https://www.nuget.org/packages/System.Memory/4.5.4)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Numerics.Vectors (https://www.nuget.org/packages/System.Numerics.Vectors/4.4.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation.  All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Runtime.CompilerServices.Unsafe (https://www.nuget.org/packages/System.Runtime.CompilerServices.Unsafe/4.5.2)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Runtime.CompilerServices.Unsafe (https://www.nuget.org/packages/System.Runtime.CompilerServices.Unsafe/4.7.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Runtime.Loader (https://www.nuget.org/packages/System.Runtime.Loader/4.3.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation.  All rights reserved.
+	License: MICROSOFT .NET LIBRARY, full text can be found at https://www.microsoft.com/web/webpi/eula/net_library_eula_enu.htm
+
+System.Security.AccessControl (https://www.nuget.org/packages/System.Security.AccessControl/4.7.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Security.Cryptography.ProtectedData (https://www.nuget.org/packages/System.Security.Cryptography.ProtectedData/4.5.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation.  All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Security.Permissions (https://www.nuget.org/packages/System.Security.Permissions/4.5.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation.  All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Security.Principal.Windows (https://www.nuget.org/packages/System.Security.Principal.Windows/4.7.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Text.Encoding.CodePages (https://www.nuget.org/packages/System.Text.Encoding.CodePages/4.7.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.Threading.Tasks.Extensions (https://www.nuget.org/packages/System.Threading.Tasks.Extensions/4.5.2)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation. All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+
+System.ValueTuple (https://www.nuget.org/packages/System.ValueTuple/4.5.0)
+    Authors: Microsoft
+	Copyright: © Microsoft Corporation.  All rights reserved.
+	License: MIT License, full text can be found at https://spdx.org/licenses/MIT
+

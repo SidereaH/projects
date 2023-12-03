@@ -1,0 +1,10 @@
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\bin\Release\forms.exe.config
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\bin\Release\forms.exe
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\bin\Release\forms.pdb
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\obj\Release\forms.csproj.AssemblyReference.cache
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\obj\Release\forms.Form1.resources
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\obj\Release\forms.Properties.Resources.resources
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\obj\Release\forms.csproj.GenerateResource.cache
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\obj\Release\forms.csproj.CoreCompileInputs.cache
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\obj\Release\forms.exe
+C:\Users\hutor\Desktop\work\сри шрап\forms\forms\obj\Release\forms.pdb

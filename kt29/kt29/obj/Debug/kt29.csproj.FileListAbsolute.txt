@@ -1,0 +1,11 @@
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\obj\Debug\kt29.csproj.AssemblyReference.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\obj\Debug\kt29.Form1.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\obj\Debug\kt29.Form2.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\obj\Debug\kt29.Properties.Resources.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\obj\Debug\kt29.csproj.GenerateResource.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\obj\Debug\kt29.csproj.CoreCompileInputs.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\bin\Debug\kt29.exe.config
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\bin\Debug\kt29.exe
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\bin\Debug\kt29.pdb
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\obj\Debug\kt29.exe
+C:\Users\hutor\Desktop\work\сри шрап\kt29\kt29\obj\Debug\kt29.pdb

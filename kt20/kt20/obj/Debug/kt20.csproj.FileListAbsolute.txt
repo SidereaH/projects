@@ -1,0 +1,10 @@
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\obj\Debug\kt20.csproj.AssemblyReference.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\obj\Debug\kt20.Form1.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\obj\Debug\kt20.Properties.Resources.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\obj\Debug\kt20.csproj.GenerateResource.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\obj\Debug\kt20.csproj.CoreCompileInputs.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\bin\Debug\kt20.exe.config
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\bin\Debug\kt20.exe
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\bin\Debug\kt20.pdb
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\obj\Debug\kt20.exe
+C:\Users\hutor\Desktop\work\сри шрап\kt20\kt20\obj\Debug\kt20.pdb

@@ -1,0 +1,10 @@
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\bin\Debug\kt19.exe.config
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\bin\Debug\kt19.exe
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\bin\Debug\kt19.pdb
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\obj\Debug\kt19.csproj.AssemblyReference.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\obj\Debug\kt19.Form1.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\obj\Debug\kt19.Properties.Resources.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\obj\Debug\kt19.csproj.GenerateResource.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\obj\Debug\kt19.csproj.CoreCompileInputs.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\obj\Debug\kt19.exe
+C:\Users\hutor\Desktop\work\сри шрап\kt19\kt19\obj\Debug\kt19.pdb

@@ -1,0 +1,10 @@
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\bin\Debug\kt22.exe.config
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\bin\Debug\kt22.exe
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\bin\Debug\kt22.pdb
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\obj\Debug\kt22.csproj.AssemblyReference.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\obj\Debug\kt22.Form1.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\obj\Debug\kt22.Properties.Resources.resources
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\obj\Debug\kt22.csproj.GenerateResource.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\obj\Debug\kt22.csproj.CoreCompileInputs.cache
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\obj\Debug\kt22.exe
+C:\Users\hutor\Desktop\work\сри шрап\kt22\kt22\obj\Debug\kt22.pdb

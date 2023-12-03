@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="umnikithubDataSet" targetNamespace="http://tempuri.org/umnikithubDataSet.xsd" xmlns:mstns="http://tempuri.org/umnikithubDataSet.xsd" xmlns="http://tempuri.org/umnikithubDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="umnikithubConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="umnikithubConnectionString (Settings)" PropertyReference="ApplicationSettings.dump.Properties.Settings.GlobalReference.Default.umnikithubConnectionString" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="uspevaemostTableAdapter" GeneratorDataComponentClassName="uspevaemostTableAdapter" Name="uspevaemost" UserDataComponentName="uspevaemostTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="umnikithubConnectionString (Settings)" DbObjectName="uspevaemost" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="true" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="true" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="false">
+                    <CommandText>SELECT Код, Фамилия, ИО, [Кол-во баллов по дисциплине ООП на C#] FROM uspevaemost</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings />
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="umnikithubDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="True" msprop:Generator_UserDSName="umnikithubDataSet" msprop:Generator_DataSetName="umnikithubDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="uspevaemost" msprop:Generator_RowEvHandlerName="uspevaemostRowChangeEventHandler" msprop:Generator_RowDeletedName="uspevaemostRowDeleted" msprop:Generator_RowDeletingName="uspevaemostRowDeleting" msprop:Generator_RowEvArgName="uspevaemostRowChangeEvent" msprop:Generator_TablePropName="uspevaemost" msprop:Generator_RowChangedName="uspevaemostRowChanged" msprop:Generator_RowChangingName="uspevaemostRowChanging" msprop:Generator_TableClassName="uspevaemostDataTable" msprop:Generator_RowClassName="uspevaemostRow" msprop:Generator_TableVarName="tableuspevaemost" msprop:Generator_UserTableName="uspevaemost">
+          <xs:complexType>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

@@ -1,0 +1,16 @@
+C:\Users\Пользователь\source\repos\zachettt\zachettt\bin\Debug\zachettt.exe.config
+C:\Users\Пользователь\source\repos\zachettt\zachettt\bin\Debug\zachettt.exe
+C:\Users\Пользователь\source\repos\zachettt\zachettt\bin\Debug\zachettt.pdb
+C:\Users\Пользователь\source\repos\zachettt\zachettt\obj\Debug\zachettt.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\zachettt\zachettt\obj\Debug\zachettt.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\zachettt\zachettt\obj\Debug\zachettt.exe
+C:\Users\Пользователь\source\repos\zachettt\zachettt\obj\Debug\zachettt.pdb
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\bin\Debug\zachettt.exe.config
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\bin\Debug\zachettt.exe
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\bin\Debug\zachettt.pdb
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\obj\Debug\zachettt.csproj.AssemblyReference.cache
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\obj\Debug\zachettt.csproj.CoreCompileInputs.cache
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\obj\Debug\zachettt.exe
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\obj\Debug\zachettt.pdb
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\obj\Debug\zachettt.Form1.resources
+C:\Users\hutor\Desktop\work\сри шрап\zachettt\zachettt\obj\Debug\zachettt.csproj.GenerateResource.cache

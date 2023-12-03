@@ -1,0 +1,13 @@
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\bin\Debug\biblioteka.accdb
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\bin\Debug\itogKT.exe.config
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\bin\Debug\itogKT.exe
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\bin\Debug\itogKT.pdb
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.csproj.AssemblyReference.cache
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.Form1.resources
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.Properties.Resources.resources
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.csproj.GenerateResource.cache
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.csproj.CoreCompileInputs.cache
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.exe
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.pdb
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.AddForm.resources
+C:\Users\hutor\Desktop\work\сри шрап\itogKT\itogKT\obj\Debug\itogKT.SearchForm.resources
